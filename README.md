@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/gabriels5g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriels5g&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&langs_count=7&theme=omni"/>
-</div>
+
 
 
 <h1 align="center">Olá, pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou Gabriel Silva</h1>
@@ -29,10 +25,18 @@
   
  
 </div>
+<br/>
+<div align="center">
+  <a href="https://github.com/gabriels5g">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriels5g&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&langs_count=7&theme=omni"/>
+</div>
 
 ##
 
 ![Snake animation](https://github.com/Israelfer/Israelfer/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Israelfer/Israelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
