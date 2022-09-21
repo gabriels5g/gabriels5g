@@ -6,13 +6,14 @@ Desenvolvedor Front-end🧑🏻‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva/414303239/)](https://www.linkedin.com/in/gabriel-silva/414303239) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielspxlsf@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielspxls@gmail.com)](mailto:gabrielspxls@gmail.com)
 
-Novo na area de programação, mas sempre buscando aprender mais com objetivo de futuramente trabalhar na area.
+Um dia você resolve 95% das tarefas e no outro você luta para conseguir terminar aqueles 5% restantes. Trabalhar com tecnologia não é facil, é uma luta por dia, mas no final tudo vale apena.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gabriel-NODE" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gabriel-NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gabriel-NODE" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  
 </div>
 
