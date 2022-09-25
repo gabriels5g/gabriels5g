@@ -1,6 +1,7 @@
 # Gabriel Silva
 
 Desenvolvedor Front-end🧑🏻‍💻
+cursando Engenharia em Software
 
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielspxls-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/gabrielspxls)](https://twitter.com/gabrielspxls) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva/414303239/)](https://www.linkedin.com/in/gabriel-silva/414303239) 
