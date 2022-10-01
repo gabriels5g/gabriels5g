@@ -13,19 +13,8 @@
    <img align="center" alt="Gabriel-Tailwind" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
    <img align="center" alt="Gabriel-NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   
-</div>
-
-
-
-
 <div align="center">
-  <a href="https://github.com/gabriels5g">
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=gabriels5g&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&langs_count=7&theme="/>
+  <a href="https://github.com/karolrezende">
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=karolrezende&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolrezende&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-
-  
- ![Snake animation](https://github.com/karolrezende/karolrezende/blob/output/github-contribution-grid-snake.svg)
-</div>
-
