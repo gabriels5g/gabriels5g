@@ -11,9 +11,7 @@ Cursando Engenharia em Software!
 <div style="display: flex">
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Gabriel-Tailwind" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   <img align="center" alt="Gabriel-Tailwind" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-   <img align="center" alt="Gabriel-NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Gabriel-py" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   </div>
   
 <div align="center">
