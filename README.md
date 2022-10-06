@@ -9,9 +9,9 @@ Cursando Engenharia em Software!
 
 
 <div style="display: inline_block">
-   <img align="center" alt="Java" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Python" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-   <img align="center" alt="Java" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 
 
