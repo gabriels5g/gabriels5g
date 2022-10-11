@@ -1,6 +1,6 @@
 # Oie, Gabriel aqui!
 
-Cursando Engenharia em Software! 
+Cursando Engenharia em Software!
 </br>
 </br>
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Silva-61dafb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriels5g/)](https://www.linkedin.com/in/gabriels5g/) 
