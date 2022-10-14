@@ -16,4 +16,11 @@ Cursando Engenharia em Software!
 
 
 
+<div display="flex"> 
+<img height="60px" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+<img height="60px" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+<img height="60px" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+</div>
+
+
 
