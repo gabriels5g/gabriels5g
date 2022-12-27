@@ -13,6 +13,7 @@ Desenvolvedor Front-end
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=40 height=40 title="javascript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=40 height=40 title="sass"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40 title="git"/>
+  <img src="./assets/PixelArtGameRoom2.gif"/>
   <div/>
 
   
