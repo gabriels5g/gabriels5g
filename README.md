@@ -10,6 +10,7 @@ Cursando Engenharia de Software @Ampli.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-</div>
+  <img align="center" alt="Prisma" width="30" src="./assets/Primsa.svg">
+</div
 
  
