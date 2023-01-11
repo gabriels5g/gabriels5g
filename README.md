@@ -9,6 +9,7 @@ Cursando Engenharia de Software @Ampli.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="reactjs" width="" src="./assets/reactjs.svg">
+  <img align="center" alt="expo" width="" src="./assets/expo.svg">
   <img align="center" alt="tailwindcss" width="" src="./assets/tailwind.svg">
 </div
 
