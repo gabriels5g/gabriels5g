@@ -8,7 +8,8 @@ Cursando Engenharia de Software @Ampli.
 [![Gmail Badge](https://img.shields.io/badge/-gabrielspxls@gmail.com-42D3FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielspxls@gmail.com)](mailto:gabrielspxls@gmail.com)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="tecnologia" width="200" src="./assets/tecno.svg">
+<img align="center" alt="reactjs" width="" src="./assets/reactjs.svg">
+  <img align="center" alt="tailwindcss" width="" src="./assets/tailwind.svg">
 </div
 
  
