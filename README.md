@@ -1,7 +1,7 @@
 # Gabriel Silva Futuro - Software Engineer
 
 
-Cursando Engenharia de Software @Ampli. </br>
+Cursando Engenharia de Software @Ampli. </br> 
 Foco em Back end👨‍💻
 
 
