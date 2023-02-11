@@ -2,7 +2,7 @@
 
 
 Cursando Engenharia de Software @Ampli. </br> 
-Foco em Back end👨‍💻 
+Foco em Back end👨‍💻
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Silva-42D3FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriels5g/)](https://www.linkedin.com/in/gabriels5g/) 
