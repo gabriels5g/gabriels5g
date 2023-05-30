@@ -9,10 +9,8 @@ Cursando Engenharia de Software @Ampli.</br>
 
 
 <div display="flex"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" height=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" height=60 />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=60 />
 <div/>
 
 
