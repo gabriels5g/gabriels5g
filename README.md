@@ -11,7 +11,7 @@ Cursando Engenharia de Software @Ampli.</br>
   <img src=https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white />
   <img src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white />
   <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
-  <img src=https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white />
+  <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white />
 </div>
 <br/>
 </div>
