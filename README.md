@@ -10,8 +10,11 @@ Cursando Engenharia de Software @Ampli.</br>
 <div>
   <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
   <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white />
+   <img src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white />
+   <img src=https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white />
 </div>
 <br/>
 </div>
+<a href="https://github.com/gabriels5g"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  /></a>
 
 
