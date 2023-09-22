@@ -8,8 +8,12 @@ I'm a self-taught software engineer from Brazil.
 [![Gmail Badge](https://img.shields.io/badge/-gabrielspxls@gmail.com-42D3FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielspxls@gmail.com)](mailto:gabrielspxls@gmail.com)
 
 <div>
-  <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
-  <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white />
+    <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />
+    <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white />
+    <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
+    <img src=https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37 />
+
+
 </div>
 <br/>
 </div>
