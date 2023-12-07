@@ -1,5 +1,4 @@
 # Gabriel Silva - Software Engineer
-@Nubank
 
 
 I'm a self-taught software engineer from Brazil.
