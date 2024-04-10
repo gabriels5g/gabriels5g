@@ -14,3 +14,6 @@ I'm a self-taught software engineer from Brazil.
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
+
+[![Gabriel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
