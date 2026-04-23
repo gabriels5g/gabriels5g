@@ -32,6 +32,6 @@ Currently, I’m improving my skills in **Python, SQL, Power BI, and programming
 - Programming logic and problem solving
 
 ## GitHub Stats
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriels5g&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriels5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gabriel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
