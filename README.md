@@ -1,32 +1,27 @@
-# Gabriel Silva
+### Hi, I'm Gabriel Silva
 
-I'm a Brazilian **Analysis and Development of Systems (ADS) student** focused on **Data, BI, and Back-end development**.
+ADS student from Brazil · Python · React & TypeScript · Data & BI
 
-Currently, I’m improving my skills in **Python, SQL, Power BI, and programming fundamentals**, while building projects to strengthen my portfolio.
+---
 
-## About me
-- ADS student from Brazil
-- Focused on **Data Analysis / BI**
-- Learning **Python, SQL, Power BI, and Back-end**
-- Building projects to grow in tech
+**Tech**
 
-## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Silva-282828?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriels5g/)](https://www.linkedin.com/in/gabriels5g/)  
-[![Gmail Badge](https://img.shields.io/badge/-gabrielspxls@gmail.com-282828?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielspxls@gmail.com)](mailto:gabrielspxls@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Tech Stack
-<div>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+---
 
-## Currently learning
-- Python for data analysis
-- SQL and databases
-- Power BI dashboards
-- Programming logic and problem solving
+**Stats**
 
-## GitHub Stats
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriels5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabriels5&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-[![Gabriel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels5g&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriels5g/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielspthm@gmail.com)
